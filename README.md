@@ -24,6 +24,7 @@ rate against under 1% elsewhere
 Review discount authority in the North and pipeline in Scotland. Add the
 discount field to the ERP export so net revenue exists at source.
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard_1_Brightline_Supplies.png)
+![Dashboard](Dashboard_2_Brightline_Supplies.png)
 ## Tools
 Excel: INDEX/MATCH, SUMIFS, PivotTables, conditional formatting, charting

@@ -23,6 +23,8 @@ rate against under 1% elsewhere
 ## Recommendation
 Review discount authority in the North and pipeline in Scotland. Add the
 discount field to the ERP export so net revenue exists at source.
+Change pricing of Stationery in the North, because we expected the percentage of the total revenue of stationery to be 2.84% higher, which is a much bigger difference than all other categories 
+In Scotland, increase the volume of Furniture and Stationery, whilst changing the pricing of Print.
 ## Dashboard
 ![Dashboard](Dashboard_1_Brightline_Supplies.png)
 ![Dashboard](Dashboard_2_Brightline_Supplies.png)

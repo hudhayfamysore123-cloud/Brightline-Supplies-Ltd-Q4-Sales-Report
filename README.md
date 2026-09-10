@@ -29,4 +29,4 @@ In Scotland, increase the volume of Furniture and Stationery, whilst changing th
 ![Dashboard](Dashboard_1_Brightline_Supplies.png)
 ![Dashboard](Dashboard_2_Brightline_Supplies.png)
 ## Tools
-Excel: INDEX/MATCH, SUMIFS, PivotTables, conditional formatting, charting
+Excel: Xlookup, SUMIFS, PivotTables, conditional formatting, charting
